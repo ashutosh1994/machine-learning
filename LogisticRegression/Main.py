@@ -1,4 +1,4 @@
-from Dataset.Datasets import BreastCancer
+from Dataset.BreastCancerDataset import BreastCancer
 from sklearn.metrics import accuracy_score
 from LogisticRegression import LogisticRegression
 
